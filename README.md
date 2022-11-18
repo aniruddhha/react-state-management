@@ -1,3 +1,3 @@
-# React Redux
+# React State Management
 
-## 👨‍💻 Youtube Video : https://youtu.be/FEBc6rsK4vU
+## 👨‍💻 Youtube Video Redux : https://youtu.be/FEBc6rsK4vU
